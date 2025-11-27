@@ -10,7 +10,7 @@ redis:6
 valkey/valkey:8
 minio/minio
 kibana:8.11.3
-opensearch:2.19.1
+# opensearch:2.19.1
 # xinference部署大模型
 xprobe/xinference
 # other
