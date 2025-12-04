@@ -17,6 +17,8 @@ chromadb/chroma
 xprobe/xinference:latest-cu128
 # gitlab
 gitlab/gitlab-ce
+# 内网穿刺
+yisier1/nps
 # other
 nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
