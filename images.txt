@@ -14,7 +14,7 @@ kibana:8.11.3
 # chormaDB
 chromadb/chroma
 # xinference部署大模型指定cuda版本
-xprobe/xinference:latest-cu128
+xprobe/xinference:v0.14.0-cu128
 # gitlab
 gitlab/gitlab-ce
 # 内网穿刺
