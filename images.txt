@@ -1,5 +1,7 @@
 # ragflow
+infiniflow/ragflow:v0.21.0
 infiniflow/ragflow:v0.22.0
+infiniflow/ragflow:latest
 infiniflow/infinity:v0.6.5
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
@@ -7,6 +9,7 @@ elasticsearch:8.11.3
 mysql:8.0.39
 postgres:13
 redis:6
+redis:8
 valkey/valkey:8
 minio/minio
 kibana:8.11.3
@@ -14,8 +17,8 @@ kibana:8.11.3
 # chormaDB
 chromadb/chroma
 # xinference部署大模型指定cuda版本
-xprobe/xinference:latest-cu128
 xprobe/xinference:v1.13.0-cu128
+xprobe/xinference:latest-cu128
 # gitlab
 gitlab/gitlab-ce
 # 内网穿刺
