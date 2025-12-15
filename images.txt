@@ -1,5 +1,5 @@
 # ragflow
-infiniflow/ragflow:v0.21.0
+infiniflow/ragflow:v0.22.1
 infiniflow/ragflow:v0.22.0
 infiniflow/ragflow:latest
 infiniflow/infinity:v0.6.5
