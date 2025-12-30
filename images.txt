@@ -2,7 +2,7 @@
 infiniflow/ragflow:v0.23.0
 infiniflow/ragflow:v0.22.0
 infiniflow/infinity:v0.6.5
-infiniflow/infinity:v0.6.15
+infiniflow/infinity:v0.6.13
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
 elasticsearch:8.11.3
