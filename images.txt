@@ -1,8 +1,8 @@
 # ragflow
-infiniflow/ragflow:v0.23.0
+infiniflow/ragflow:v0.23.1
 infiniflow/ragflow:v0.22.0
 infiniflow/infinity:v0.6.5
-infiniflow/infinity:v0.6.13
+infiniflow/infinity:v0.6.15
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
 elasticsearch:8.11.3
@@ -11,8 +11,9 @@ postgres:13
 redis:6
 redis:8
 valkey/valkey:8
-minio/minio
+minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
+oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
 # opensearch:2.19.1
 # chormaDB
 chromadb/chroma
