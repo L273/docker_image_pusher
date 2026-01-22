@@ -11,6 +11,7 @@ postgres:13
 redis:6
 redis:8
 valkey/valkey:8
+rustfs/rustfs:latest
 minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
