@@ -1,14 +1,9 @@
 # ragflow
-infiniflow/ragflow:v0.23.1
 infiniflow/ragflow:v0.24.0
-infiniflow/infinity:v0.7.0-dev2
 infiniflow/infinity:v0.7.0-dev5
-infiniflow/infinity:v0.6.15
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
 infiniflow/sandbox-executor-manager:latest
-infiniflow/sandbox-base-python:latest
-infiniflow/sandbox-base-nodejs:latest
 elasticsearch:8.11.3
 mysql:8.0.39
 postgres:13
@@ -19,6 +14,8 @@ rustfs/rustfs:latest
 minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
+# vllm
+vllm/vllm-openai:v0.19.0
 # 三组镜像，给构建使用
 library/python:3.13-slim-bookworm 
 library/python:3.12-slim-bookworm 
@@ -28,7 +25,7 @@ library/python:3.11-slim-bookworm
 chromadb/chroma
 # xinference部署大模型指定cuda版本
 xprobe/xinference:v1.15.0-cu128
-xprobe/xinference:v2.3.0
+xprobe/xinference:v2.5.0
 # gitlab
 gitlab/gitlab-ce
 # 内网穿刺
@@ -39,4 +36,3 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
---platform=linux/arm64 xiaoyaliu/alist
