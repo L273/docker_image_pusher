@@ -4,9 +4,9 @@ infiniflow/infinity:v0.7.0-dev5
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
 infiniflow/sandbox-executor-manager:latest
-elasticsearch:8.11.3
+# elasticsearch:8.11.3
 mysql:8.0.39
-postgres:13
+# postgres:13
 redis:6
 redis:8
 valkey/valkey:8
@@ -27,12 +27,12 @@ chromadb/chroma
 xprobe/xinference:v1.15.0-cu128
 xprobe/xinference:v2.7.0
 # gitlab
-gitlab/gitlab-ce
+# gitlab/gitlab-ce
 # 内网穿刺
-yisier1/nps
+# yisier1/nps
 # other
-nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# nginx
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
