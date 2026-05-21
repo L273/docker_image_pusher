@@ -2,7 +2,7 @@
 infiniflow/ragflow:v0.25.0
 infiniflow/ragflow:v0.24.0
 infiniflow/infinity:v0.7.0-dev6
-infiniflow/infinity:latest
+infiniflow/infinity:v0.7.0
 infiniflow/infinity:v0.6.15
 oceanbase/seekdb:latest
 infiniflow/text-embeddings-inference:cpu-1.8
