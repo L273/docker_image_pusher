@@ -20,7 +20,7 @@ minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
 # vllm
-vllm/vllm-openai:v0.19.0
+vllm/vllm-openai:1.0.0-alpha.18
 # 三组镜像，给构建使用
 library/python:3.13-slim-bookworm 
 library/python:3.12-slim-bookworm 
