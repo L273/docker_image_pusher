@@ -1,9 +1,8 @@
 # ragflow
 infiniflow/ragflow:v0.25.0
 infiniflow/ragflow:v0.24.0
-infiniflow/infinity:v0.7.0-dev6
+infiniflow/infinity:v0.7.0-dev5
 infiniflow/infinity:v0.7.0
-infiniflow/infinity:v0.6.15
 oceanbase/seekdb:latest
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
@@ -15,10 +14,7 @@ redis:6
 redis:8
 valkey/valkey:8
 rustfs/rustfs:latest
-rustfs/rustfs:1.0.0-beta.2
-rustfs/rustfs:1.0.0-beta.1
 rustfs/rustfs:1.0.0-alpha.99
-rustfs/rustfs:1.0.0-alpha.98
 minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
@@ -32,9 +28,9 @@ library/python:3.11-slim-bookworm
 # chormaDB
 chromadb/chroma
 # xinference部署大模型指定cuda版本
-# xprobe/xinference:v1.15.0-cu128
+xprobe/xinference:v1.15.0-cu128
 xprobe/xinference:v2.7.0
-# xprobe/xinference:v2.7.0-cu132
+xprobe/xinference:v2.9.0
 # gitlab
 # gitlab/gitlab-ce
 # 内网穿刺
