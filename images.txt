@@ -40,5 +40,7 @@ xprobe/xinference:v2.9.0
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
 ubuntu/squid
+# notebook
+jupyter/base-notebook:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
