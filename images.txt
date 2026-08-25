@@ -1,7 +1,6 @@
 # ragflow
 infiniflow/ragflow:v0.26.0
 infiniflow/ragflow:v0.24.0
-infiniflow/infinity:v0.7.0-dev5
 infiniflow/infinity:v0.7.0
 oceanbase/seekdb:latest
 infiniflow/text-embeddings-inference:cpu-1.8
@@ -10,11 +9,9 @@ infiniflow/sandbox-executor-manager:latest
 # elasticsearch:8.11.3
 mysql:8.0.39
 # postgres:13
-redis:6
 redis:8
 valkey/valkey:8
 rustfs/rustfs:latest
-rustfs/rustfs:1.0.0-alpha.99
 minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
@@ -23,7 +20,6 @@ vllm/vllm-openai:v0.19.0
 # 三组镜像，给构建使用
 library/python:3.13-slim-bookworm 
 library/python:3.12-slim-bookworm 
-library/python:3.11-slim-bookworm 
 # opensearch:2.19.1
 # chormaDB
 chromadb/chroma
