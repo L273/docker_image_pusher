@@ -11,9 +11,10 @@ rustfs/rustfs:latest
 #minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 # vllm
-vllm/vllm-openai:v0.19.0
+vllm/vllm-openai:v0.21.0
 # 三组镜像，给构建使用
-library/python:3.12-slim-bookworm 
+library/python:3.12-slim-bookworm
+library/python:3.12-slim
 # opensearch:2.19.1
 # chormaDB
 # xinference
