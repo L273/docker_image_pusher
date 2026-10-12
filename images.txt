@@ -22,7 +22,6 @@ xprobe/xinference:v3.2.0
 # gitlab/gitlab-ce
 # 内网穿刺
 # yisier1/nps
-# other
 # nginx
 # xhofe/alist:latest
 ubuntu/squid
