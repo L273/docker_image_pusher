@@ -19,9 +19,6 @@ library/python:3.12-slim
 # chormaDB
 # xinference
 xprobe/xinference:v3.2.0
-# gitlab/gitlab-ce
-# 内网穿刺
-# yisier1/nps
 # nginx
 # xhofe/alist:latest
 ubuntu/squid
