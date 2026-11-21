@@ -1,3 +1,5 @@
+# AF3
+nvidia/cuda:12.6.3-base-ubuntu24.04
 # ragflow
 infiniflow/ragflow:v0.26.0
 oceanbase/seekdb:latest
